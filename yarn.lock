@@ -1826,10 +1826,10 @@
     "@sentry/types" "5.30.0"
     tslib "^1.9.3"
 
-"@steroidsjs/bootstrap@3.0.0-beta.73":
-  version "3.0.0-beta.73"
-  resolved "https://registry.yarnpkg.com/@steroidsjs/bootstrap/-/bootstrap-3.0.0-beta.73.tgz#364d7113783f315fe465f279419ce3a6087a5abe"
-  integrity sha512-wjG4mFe0QbEUdbKNoHCM9JOMtap9EL6hx2olA39E8ee5fnPB506da+FPrI9DVETbberM34P81TjyBszE0q9r0Q==
+"@steroidsjs/bootstrap@3.0.0-beta.74":
+  version "3.0.0-beta.74"
+  resolved "https://registry.yarnpkg.com/@steroidsjs/bootstrap/-/bootstrap-3.0.0-beta.74.tgz#4597442c57ab19f77a352c73bad5966205c40a36"
+  integrity sha512-g8DF5COD7Izid8IGOqemfqUeeppZPhqUIW2e/HJ16hLiwdR6z2Iavwbu3laaU99OHaXwbAC7rrK/bVRWSX6JVw==
   dependencies:
     "@ckeditor/ckeditor5-react" "^3.0.2"
     "@steroidsjs/ckeditor5" "^27.0.2-rc.2"
@@ -1912,6 +1912,44 @@
   version "3.0.0-beta.52"
   resolved "https://registry.yarnpkg.com/@steroidsjs/core/-/core-3.0.0-beta.52.tgz#49c92406c1f11e8547aa9c3ed6bf0a4ae934d78f"
   integrity sha512-s+JCeBaxh8ArSV24dVnbDS3RS7S19vY1k+PpvPaxLwxnVNmT5vzuxecE+y7i9eZY5dNSk4/zHeAUZfTPmw8TTQ==
+  dependencies:
+    "@maskito/core" "^0.12.1"
+    "@maskito/kit" "^0.12.1"
+    "@maskito/react" "^0.12.1"
+    axios "^0.21.1"
+    connected-react-router "^6.9.3"
+    domready "^1.0.8"
+    dot-prop-immutable "^2.1.0"
+    fileup-core "^1.2.7"
+    history "^4.10.1"
+    intl-messageformat "^10.1.4"
+    js-cookie "^2.2.1"
+    load-js "^3.0.3"
+    lodash "^4.17.21"
+    lodash-es "^4.17.21"
+    moment "^2.29.1"
+    path-to-regexp "^1.7.0"
+    qs "^6.9.4"
+    query-string "^6.14.0"
+    react "^18.2.0"
+    react-click-outside "^3.0.1"
+    react-day-picker "^8.7.1"
+    react-dom "^18.2.0"
+    react-grid-gallery "^0.4.8"
+    react-helmet "^6.1.0"
+    react-image-crop "^9.0.2"
+    react-redux "^8.0.5"
+    react-router "^5.2.0"
+    react-router-dom "^5.2.0"
+    react-use "^17.4.0"
+    redux "^4.0.4"
+    redux-mock-store "^1.5.4"
+    set-cookie-parser "^2.4.8"
+
+"@steroidsjs/core@3.0.0-beta.54":
+  version "3.0.0-beta.53"
+  resolved "https://registry.yarnpkg.com/@steroidsjs/core/-/core-3.0.0-beta.53.tgz#b0391b94f6938d001d8e4c7a257b4655e43b8430"
+  integrity sha512-Jp8l/B1i8igTm+CRY2uqnBCnGadR4f2sZt1bDG6hlT2cn1wzTUl/PoLZCFZ3cGldfy7RXw4t/TKPmB3dObRpuw==
   dependencies:
     "@maskito/core" "^0.12.1"
     "@maskito/kit" "^0.12.1"
