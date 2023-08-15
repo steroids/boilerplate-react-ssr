@@ -17,7 +17,7 @@
     "@steroidsjs/bootstrap": "3.0.0-beta.73",
     "@steroidsjs/core": "3.0.0-beta.52",
     "@steroidsjs/webpack": "^3.0 || >=3.0.0-beta.4",
-    "@steroidsjs/ssr": "^2.0.2",
+    "@steroidsjs/ssr": "^2.0.3",
     "connected-react-router": "^6.9.1",
     "lodash": "^4.17.21",
     "lodash-es": "^4.17.21",
